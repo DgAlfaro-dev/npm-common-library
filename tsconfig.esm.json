@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "outDir": "dist",
+      "declaration": true,
+      "declarationMap": true,
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext",
+      "target": "ESNext",
+      "strict": true,
+      "types": ["node"],
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true
+    },
+    "include": ["src"]
+  }
+  

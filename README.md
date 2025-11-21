@@ -1,1 +1,0 @@
-# npm-common-library
